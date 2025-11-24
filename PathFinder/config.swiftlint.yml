@@ -1,0 +1,18 @@
+disabled_rules:
+  - line_length
+
+opt_in_rules:
+  - empty_count
+  - force_unwrapping
+
+included:
+  - PathFinder
+
+excluded:
+  - Carthage
+  - Pods
+  - .build
+  - PathFinderUITests
+  - PathFinderTests
+  - PathFinder.xcodeproj
+  - .git
