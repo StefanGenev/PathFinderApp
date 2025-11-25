@@ -6,3 +6,11 @@
 //
 
 import Foundation
+import SwiftUI
+
+extension ShapeStyle where Self == SwiftUI.Color {
+    
+    static func designSystem(color token: DesignSystem.Color.Token) -> Self {
+        token.color
+    }
+}

@@ -11,7 +11,7 @@ struct SignInView: View {
     
     var body: some View {
         
-        ZStack{
+        ZStack {
             
             Color.designSystem(color: .background(.primary)).ignoresSafeArea()
             
