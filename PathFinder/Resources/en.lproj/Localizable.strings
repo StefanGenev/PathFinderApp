@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  PathFinder
+
+  Created by Stefan Genev on 20.12.25.
+  
+*/
+
+"sign_in" = "Sign In";
+"sign_in_description" = "Please login to continue to your account.";
